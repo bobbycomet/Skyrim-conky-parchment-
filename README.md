@@ -1,4 +1,4 @@
-# Skyrim Conky – Vanilla Edition and Vanilla+ Edition
+# Skyrim Conky – Parchment Edition and Vanilla+ Edition
 <img width="1920" height="1080" alt="Screenshot_20260719_220545" src="https://github.com/user-attachments/assets/00a65f56-e9b5-4b1b-8b24-400172ba965f" />
 <img width="1920" height="1080" alt="Screenshot_20260716_150541" src="https://github.com/user-attachments/assets/1359d1bb-5e92-40e2-9abe-fe2138f59956" />
 <img width="1920" height="1080" alt="Screenshot_20260716_150205" src="https://github.com/user-attachments/assets/4d5e1e5f-c5c2-4fa6-85d8-2fe70f29d5c1" />
