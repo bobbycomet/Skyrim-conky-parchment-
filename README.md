@@ -15,18 +15,7 @@ The theme displays useful system information in a lore-friendly design, includin
 
 Everything is designed to blend naturally with Skyrim's interface while remaining lightweight and easy to use.
 
-## Installation
-
-1. Extract **dovakiinstatusv2.tar.gz**.
-2. Put the files in ~/.config/conky folder.
-3. Run
-
-If you want local weather, edit:
-
-```
-~/.conky/skyrim_weather.sh
-```
-Enter your city or, for the U.S City+State. EX: Cincinnati+OH, New+York+NY, London. Use a + for spaces.
+Fully compatible with [Conky Studio's](https://github.com/bobbycomet/Conky-Studio/tree/main) Manager
 
 ## Installation of Vanilla+
 
@@ -34,7 +23,7 @@ Enter your city or, for the U.S City+State. EX: Cincinnati+OH, New+York+NY, Lond
 2. Put the files in ~/.config/conky folder.
 3. Run:
 
-```bash
+```
 ./install.sh
 ```
 
@@ -46,15 +35,17 @@ The installer will:
 
 If you want local weather, edit:
 
-```text
+```
 ~/.conky/location.conf
 ```
+
 Enter your city or, for the U.S City+State. EX: Cincinnati+OH, New+York+NY, London. Use a + for spaces.
 
-Vanilla+ is almost completely compatible with the Parchment Edition. The only thing it is not compatible with is the parchment layout. 
-I chose to do it this way to have 3 experiences: Skyrim modded feeling, a vanilla feeling, and a tinkering feeling.  
+## Run
 
-[Check the Parchment Edition here](https://github.com/bobbycomet/Skyrim-conky-parchment-)
+```
+./start.sh
+```
 
 Finally, start Conky and/or add it to your startup applications
 
